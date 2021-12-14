@@ -1,0 +1,4 @@
+baseURL = 'http://ilhamije.id/'
+languageCode = 'en-us'
+title = 'ilhamije'
+theme = "PaperMod"

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on ilhamije</title>
+    <link>http://ilhamije.id/posts/</link>
+    <description>Recent content in Posts on ilhamije</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Dec 2021 22:30:59 +0700</lastBuildDate><atom:link href="http://ilhamije.id/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resurecting Old Dream</title>
+      <link>http://ilhamije.id/posts/2021-12-14-resurrecting-old-dream/</link>
+      <pubDate>Tue, 14 Dec 2021 22:30:59 +0700</pubDate>
+      
+      <guid>http://ilhamije.id/posts/2021-12-14-resurrecting-old-dream/</guid>
+      <description>Finally! I got accepted as Master Student at University of Indonesia. It&amp;rsquo;s been one of my step closer to my dream: to create things that matter in the world of AI/ML. Yeah, I&amp;rsquo;m going to say this classic line : To create a better world.
+Maybe creating one ML project every month is not too much, right? Let&amp;rsquo;s do it.</description>
+    </item>
+    
+  </channel>
+</rss>
