@@ -1,4 +1,4 @@
 baseURL = 'https://ilhamije.id/'
 languageCode = 'en-us'
-title = 'ilhamije blog'
-theme = "PaperMod"
+title = 'ilhamije'
+theme = "hugo-PaperMod"
