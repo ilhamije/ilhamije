@@ -2,3 +2,13 @@ baseURL = 'https://ilhamije.id/'
 languageCode = 'en-us'
 title = 'ilhamije'
 theme = "hugo-PaperMod"
+
+[menu]
+[[menu.main]]
+  name = 'cv'
+  url = '/cv/'
+  weight = -110
+[[menu.main]]
+  name = 'projects'
+  url = '/projects/'
+  weight = -100
