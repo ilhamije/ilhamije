@@ -7,12 +7,12 @@ draft: false
 I've been working on tutorial task for Jarkom Lanjut (Advanced Computer Network) in my Master. It's a hands-on tutorial to improve our understanding about the subject. The lecturer gave us some clear instructions to use Nano to edit the code. Nano is easy to use and more friendly compared to VIM/VI. (Disclaimer: Both of these editors are good). Usually, I'd prefer to use VI in case I need to use editor in Server.
 
 
-Why? Let me tell you.
+Why? Let me tell you.  
+(at least these are the commands I often used.)
 
 ---
 
 VI has these functionalities:
-(at least these are the commands I oftenly used.)
 
 I assume you already know how to open a file in terminal
 ```
