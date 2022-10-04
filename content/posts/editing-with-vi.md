@@ -4,7 +4,7 @@ date: 2022-10-04T09:09:35+07:00
 draft: false
 ---
 
-I've been working on tutorial task for Jarkom Lanjut (Advanced Computer Network) in my Master. It's a hands-on  The lecturer gave us some clear instructions to use Nano to edit the code. Nano is easy to use and more friendly compared to VIM/VI. (Disclaimer: Both of these editors are good). Usually, I'd prefer to use VI in case I need to use editor in Server.
+I've been working on tutorial task for Jarkom Lanjut (Advanced Computer Network) in my Master. It's a hands-on tutorial to improve our understanding about the subject. The lecturer gave us some clear instructions to use Nano to edit the code. Nano is easy to use and more friendly compared to VIM/VI. (Disclaimer: Both of these editors are good). Usually, I'd prefer to use VI in case I need to use editor in Server.
 
 
 Why? Let me tell you.
@@ -64,7 +64,7 @@ Go to your desired line to be copied. Then run ":t.", it will pasted under copie
 
 ---
 
-Ready to **save** it?
+Ready to **save** the world?
 ```
 :w
 ```
