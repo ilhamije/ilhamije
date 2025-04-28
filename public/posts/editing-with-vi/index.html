@@ -5,14 +5,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
-<title>Resurrecting Old Dream | ilhamije</title>
+<title>Editing With VI/VIM | ilhamije</title>
 <meta name="keywords" content="">
-<meta name="description" content="Finally!
-I got accepted as Master Student at University of Indonesia. It&rsquo;s been one of my step closer to my dream: to create things that matter in the world of AI/ML. Yeah, I&rsquo;m going to say this classic line : To create a better world.
-Maybe creating one ML project every month is not too much, right?
-Let&rsquo;s do it.">
+<meta name="description" content="I&rsquo;ve been working on tutorial task for Jarkom Lanjut (Advanced Computer Network) in my Master. It&rsquo;s a hands-on tutorial to improve our understanding about the subject. The lecturer gave us some clear instructions to use Nano to edit the code. Nano is easy to use and more friendly compared to VIM/VI. (Disclaimer: Both of these editors are good). Usually, I&rsquo;d prefer to use VI in case I need to use editor in Server.">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/posts/2021-12-14-resurecting-old-dream/">
+<link rel="canonical" href="http://localhost:1313/posts/editing-with-vi/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.f49d66caae9ea0fd43f21f29e71a8d3e284517ed770f2aa86fa012953ad3c9ef.css" integrity="sha256-9J1myq6eoP1D8h8p5xqNPihFF&#43;13Dyqob6ASlTrTye8=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
@@ -21,7 +18,7 @@ Let&rsquo;s do it.">
 <link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/2021-12-14-resurecting-old-dream/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/editing-with-vi/">
 <noscript>
     <style>
         #theme-toggle,
@@ -120,16 +117,54 @@ Let&rsquo;s do it.">
   <header class="post-header">
     
     <h1 class="post-title entry-hint-parent">
-      Resurrecting Old Dream
+      Editing With VI/VIM
     </h1>
-    <div class="post-meta"><span title='2021-12-14 22:30:59 +0700 WIB'>December 14, 2021</span>
+    <div class="post-meta"><span title='2022-10-04 09:09:35 +0700 WIB'>October 4, 2022</span>
 
 </div>
   </header> 
-  <div class="post-content"><p>Finally!<br>
-I got accepted as Master Student at University of Indonesia. It&rsquo;s been one of my step closer to my dream: to create things that matter in the world of AI/ML. Yeah, I&rsquo;m going to say this classic line : To create a better world.</p>
-<p>Maybe creating one ML project every month is not too much, right?<br>
-Let&rsquo;s do it.</p>
+  <div class="post-content"><p>I&rsquo;ve been working on tutorial task for Jarkom Lanjut (Advanced Computer Network) in my Master. It&rsquo;s a hands-on tutorial to improve our understanding about the subject. The lecturer gave us some clear instructions to use Nano to edit the code. Nano is easy to use and more friendly compared to VIM/VI. (Disclaimer: Both of these editors are good). Usually, I&rsquo;d prefer to use VI in case I need to use editor in Server.</p>
+<p>Why? Let me tell you.<br>
+(at least these are the commands I often used.)</p>
+<hr>
+<p>VI has these functionalities:</p>
+<p>I assume you already know how to open a file in terminal</p>
+<pre tabindex="0"><code>$ vi filename.py
+</code></pre><p>Write? Sure.
+Press &ldquo;a&rdquo; to start editing. Or &ldquo;insert&rdquo; button.</p>
+<hr>
+<p>Any command will be run by hitting enter button.</p>
+<p><strong>Jump</strong> to specific line?</p>
+<pre tabindex="0"><code>:&lt;line-number&gt;
+</code></pre><p>i.e you want to jump to line 123, then run &ldquo;:123&rdquo;</p>
+<hr>
+<p><strong>Search/Find</strong> a specific string? Got you.</p>
+<pre tabindex="0"><code>:/&lt;your-search-string&gt;
+</code></pre><p>You want to find a function &ldquo;def main&rdquo;, then run &ldquo;:/main&rdquo;</p>
+<hr>
+<p><strong>Highlight</strong> all the searched string? Sure.</p>
+<pre tabindex="0"><code>:hlsearch
+</code></pre><hr>
+<p><strong>Copy</strong> a line? Sure.</p>
+<pre tabindex="0"><code>:t.
+</code></pre><p>Go to your desired line to be copied. Then run &ldquo;:t.&rdquo;, it will pasted under copied line.</p>
+<hr>
+<p><strong>Undo</strong> a saved changed? My favorite one.</p>
+<pre tabindex="0"><code>:u
+</code></pre><hr>
+<p>Ready to <strong>save</strong> the world?</p>
+<pre tabindex="0"><code>:w
+</code></pre><hr>
+<p>Oh you want to <strong>quit</strong>?</p>
+<pre tabindex="0"><code>:q
+</code></pre><hr>
+<p><strong>Save</strong> and <strong>Quit</strong> at the same time?</p>
+<pre tabindex="0"><code>:wq
+</code></pre><hr>
+<p>More command?</p>
+<pre tabindex="0"><code>:help
+</code></pre><p>or checkout this site <a href="https://www.redhat.com/sysadmin/get-started-vi-editor">https://www.redhat.com/sysadmin/get-started-vi-editor</a> they&rsquo;re awesome!</p>
+<p>I hope you enjoy this short writing about using the VI/VIM editor.</p>
 
 
   </div>

@@ -1,2 +1,3 @@
-Hello :wave:
-Have a nice day!
+RUN on Local Machine
+
+> * hugo server

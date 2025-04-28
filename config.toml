@@ -1,7 +1,7 @@
 baseURL = 'https://ilhamije.id/'
 languageCode = 'en-us'
 title = 'ilhamije'
-theme = "hugo-PaperMod"
+theme = 'hugo-PaperMod'
 
 [menu]
 [[menu.main]]

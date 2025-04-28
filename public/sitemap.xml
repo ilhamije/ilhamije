@@ -2,17 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://ilhamije.id/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-02T07:07:02+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-05-02T07:07:02+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/my-research-journey-01/</loc>
+    <lastmod>2025-04-28T10:00:01+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cv/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/editing-with-vi/</loc>
+    <lastmod>2022-10-04T09:09:35+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/memilih-kerja-remote/</loc>
+    <lastmod>2022-08-31T14:06:55+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/research-journey/</loc>
+    <lastmod>2022-04-08T08:20:14+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/vacation-is-not-holiday/</loc>
+    <lastmod>2021-12-29T21:51:07+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/is-blockchain-next-big-thing/</loc>
+    <lastmod>2021-12-17T11:15:34+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/old-price-prediction-project/</loc>
+    <lastmod>2021-12-16T07:07:07+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/static-page-generator-confuses-me/</loc>
+    <lastmod>2021-12-15T19:11:22+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2021-12-14-resurecting-old-dream/</loc>
     <lastmod>2021-12-14T22:30:59+07:00</lastmod>
   </url><url>
-    <loc>http://ilhamije.id/posts/</loc>
-    <lastmod>2021-12-14T22:30:59+07:00</lastmod>
+    <loc>http://localhost:1313/projects/privacy-policy/</loc>
   </url><url>
-    <loc>http://ilhamije.id/posts/2021-12-14-resurrecting-old-dream/</loc>
-    <lastmod>2021-12-14T22:30:59+07:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://ilhamije.id/categories/</loc>
+    <loc>http://localhost:1313/projects/</loc>
   </url><url>
-    <loc>http://ilhamije.id/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

@@ -2,20 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ilhamije</title>
-    <link>http://ilhamije.id/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on ilhamije</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Dec 2021 22:30:59 +0700</lastBuildDate><atom:link href="http://ilhamije.id/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Apr 2025 10:00:01 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Resurecting Old Dream</title>
-      <link>http://ilhamije.id/posts/2021-12-14-resurrecting-old-dream/</link>
-      <pubDate>Tue, 14 Dec 2021 22:30:59 +0700</pubDate>
-      
-      <guid>http://ilhamije.id/posts/2021-12-14-resurrecting-old-dream/</guid>
-      <description>Finally! I got accepted as Master Student at University of Indonesia. It&amp;rsquo;s been one of my step closer to my dream: to create things that matter in the world of AI/ML. Yeah, I&amp;rsquo;m going to say this classic line : To create a better world.
-Maybe creating one ML project every month is not too much, right? Let&amp;rsquo;s do it.</description>
+      <title>My Research Journey | From Finding Gaps to Finding My &#39;Click&#39;</title>
+      <link>http://localhost:1313/posts/my-research-journey-01/</link>
+      <pubDate>Mon, 28 Apr 2025 10:00:01 +0700</pubDate>
+      <guid>http://localhost:1313/posts/my-research-journey-01/</guid>
+      <description>&lt;p&gt;Starting my thesis journey felt a lot like stepping into a massive, unfamiliar jungle — exciting but also terrifying.&lt;/p&gt;
+&lt;p&gt;I knew from the beginning that I wanted to do something with  &lt;strong&gt;computer vision&lt;/strong&gt; .&lt;/p&gt;
+&lt;p&gt;But &lt;em&gt;computer vision&lt;/em&gt; is such a vast ocean: detection, segmentation, classification, enhancement — where do you even begin?&lt;/p&gt;
+&lt;p&gt;At first, I did what most people do: I read. I read papers like they were treasure maps, each promising a path toward some &amp;ldquo;undiscovered land&amp;rdquo; of innovation.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/files/CV_ilham_akbar_v6.pdf&#34;&gt;📄 Download My CV (PDF)&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Editing With VI/VIM</title>
+      <link>http://localhost:1313/posts/editing-with-vi/</link>
+      <pubDate>Tue, 04 Oct 2022 09:09:35 +0700</pubDate>
+      <guid>http://localhost:1313/posts/editing-with-vi/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been working on tutorial task for Jarkom Lanjut (Advanced Computer Network) in my Master. It&amp;rsquo;s a hands-on tutorial to improve our understanding about the subject. The lecturer gave us some clear instructions to use Nano to edit the code. Nano is easy to use and more friendly compared to VIM/VI. (Disclaimer: Both of these editors are good). Usually, I&amp;rsquo;d prefer to use VI in case I need to use editor in Server.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Memilih Kerja Remote</title>
+      <link>http://localhost:1313/posts/memilih-kerja-remote/</link>
+      <pubDate>Wed, 31 Aug 2022 14:06:55 +0700</pubDate>
+      <guid>http://localhost:1313/posts/memilih-kerja-remote/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Foto macet di hari itu&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/memilih-kerja-remote/macet.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Sudah lama sekali rasanya sejak saya menjadi sukarelawan donor darah rhesus negative. Saya cukup familiar dengan jalan besar dan jalan alternatif menuju PMI Jakarta (Redcross). Biasanya jika ada kebutuhan darah, saya cukup pake motor melahap 32km perjalanan.&lt;/p&gt;
+&lt;p&gt;Jumat kemarin (19/08/2022) dijadwalkan lagi ke PMI meski kali ini bukan untuk mendonor. Biasanya saya memilih Sabtu, habis shubuh berangkat dari rumah karena jalanan masih kosong dan udara masih segar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research Journey</title>
+      <link>http://localhost:1313/posts/research-journey/</link>
+      <pubDate>Fri, 08 Apr 2022 08:20:14 +0700</pubDate>
+      <guid>http://localhost:1313/posts/research-journey/</guid>
+      <description>&lt;p&gt;Saya sedang belajar bagaimana melakukan riset di bidang computer science. Banyak buku, video (youtube) dan artikel riset terkait ini. Merasa kecil sekali saya di dunia riset. Banyak sekali orang seumur saya sudah memiliki publikasi banyak. Bahkan yang lebih hebat lagi, usia muda banyak yang sudah doktor dan H-Indexnya tinggi sekali.&lt;/p&gt;
+&lt;p&gt;Lah saya?
+Kok gini ya, jangan-jangan saya salah langkah. Salah mengambil keputusan. Saya ingin sekali menjadi peneliti.&lt;/p&gt;
+&lt;p&gt;Ada workshop yang saya ikuti, pembicaranya mengatakan &amp;ldquo;Untuk menjadi peneliti, kita bagusnya punya karir. Bekerja di kampus atau di bidang riset sebuah perusahaan. Punya target misal sebelum usia 30, sudah dapat gelar S2. Di usia 30-an, sudah dapat gelar S3&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vacation Is Not Holiday</title>
+      <link>http://localhost:1313/posts/vacation-is-not-holiday/</link>
+      <pubDate>Wed, 29 Dec 2021 21:51:07 +0700</pubDate>
+      <guid>http://localhost:1313/posts/vacation-is-not-holiday/</guid>
+      <description>&lt;p&gt;End of the year. Yup, here we are again. Just like last year with no significant achievements for most of us. But that&amp;rsquo;s not a bad thing, in my opinion. The thing that we should have in mind is that we should be better that who we were yesterday or last year. It doesn&amp;rsquo;t matter if we are better than anyone else on earth. They&amp;rsquo;re not you.&lt;/p&gt;
+&lt;p&gt;I took a full week of vacation leave, just to take care my family. Never had a plan to go somewhere for vacation. Not on holiday season. The traffic would be a little version of hell on earth.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Is Blockchain Next Big Thing?</title>
+      <link>http://localhost:1313/posts/is-blockchain-next-big-thing/</link>
+      <pubDate>Fri, 17 Dec 2021 11:15:34 +0700</pubDate>
+      <guid>http://localhost:1313/posts/is-blockchain-next-big-thing/</guid>
+      <description>&lt;p&gt;Gimana kalo kita bandingkan Crypto currency vs Blockchain vs Metaverse?&lt;/p&gt;
+&lt;p&gt;Eeugh kayaknya kita gak bisa ngebandingin antara ketiga ini deh. Ya saya setuju sih kalo kita melihat 10 tahun terakhir atau dekade sebelumnya, pasti ada sesuatu &amp;ldquo;gebrakan&amp;rdquo; yg awalnya gak dikira akan berhasil bagi sebagian besar orang, eh ternyata berhasil.&lt;/p&gt;
+&lt;p&gt;Internet jadi alat untuk mengubah semua:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BlackBerry tergantikan iPhone &amp;amp; Android.&lt;/li&gt;
+&lt;li&gt;Surat tergantikan email.&lt;/li&gt;
+&lt;li&gt;Kerja di kantor tergantikan kerja remote.&lt;/li&gt;
+&lt;li&gt;dan semisalnya..&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ada yang bilang NFT atau crypto currency lainnya adalah the next big thing dekade ini. Dan saat inilah harusnya orang jadi FOMO. Istilah lainnya, jangan sampe ketiggalan.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Old Price Prediction Project</title>
+      <link>http://localhost:1313/posts/old-price-prediction-project/</link>
+      <pubDate>Thu, 16 Dec 2021 07:07:07 +0700</pubDate>
+      <guid>http://localhost:1313/posts/old-price-prediction-project/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ll continue my old project : Car Prediction&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Static Page Generator Confuses Me</title>
+      <link>http://localhost:1313/posts/static-page-generator-confuses-me/</link>
+      <pubDate>Wed, 15 Dec 2021 19:11:22 +0700</pubDate>
+      <guid>http://localhost:1313/posts/static-page-generator-confuses-me/</guid>
+      <description>&lt;p&gt;I want to use github pages to host my static blog. I&amp;rsquo;m lazy to do it on hosting company. Not gonna do that in the near future.&lt;/p&gt;
+&lt;p&gt;I tried Jekyll, I don&amp;rsquo;t feel confortable doing it. Changed my mind, and chose Hugo. Then confused by Hugo. I followed technical tutorial on web. Do the steps carefully, but ended up in the middle of blank website that only shows my README file content :sweat:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resurrecting Old Dream</title>
+      <link>http://localhost:1313/posts/2021-12-14-resurecting-old-dream/</link>
+      <pubDate>Tue, 14 Dec 2021 22:30:59 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2021-12-14-resurecting-old-dream/</guid>
+      <description>&lt;p&gt;Finally!&lt;br&gt;
+I got accepted as Master Student at University of Indonesia. It&amp;rsquo;s been one of my step closer to my dream: to create things that matter in the world of AI/ML. Yeah, I&amp;rsquo;m going to say this classic line : To create a better world.&lt;/p&gt;
+&lt;p&gt;Maybe creating one ML project every month is not too much, right?&lt;br&gt;
+Let&amp;rsquo;s do it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/privacy-policy/</guid>
+      <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Thank you for using my software!
+This document is the main privacy policy for &lt;strong&gt;Omni Notes&lt;/strong&gt; Android and desktop applications. I respects your privacy rights and care about protecting your information collected by my apps.&lt;/p&gt;
+&lt;h2 id=&#34;what-information-are-eventually-collected&#34;&gt;What information are eventually collected&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;No information will be collected by this app.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;security-of-information&#34;&gt;Security of information&lt;/h2&gt;
+&lt;p&gt;No data are sold or shared with third party entities or companies.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
