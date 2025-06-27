@@ -1,6 +1,7 @@
 ---
 title: "My Research Journey | Failing (A Lot) and Finally Understanding How Things Work"
 date: 2025-04-30T07:07:53+07:00
+publishDate: 2025-04-30T07:07:53+07:00
 draft: false
 ---
 Once I found my "gap," I felt energized — for about a week.
