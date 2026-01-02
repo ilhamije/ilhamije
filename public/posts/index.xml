@@ -6,8 +6,43 @@
     <description>Recent content in Posts on ilhamije</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Apr 2025 10:00:01 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 11:45:57 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reconcile My Anxiety Thesis Defense</title>
+      <link>http://localhost:1313/posts/reconcile-my-anxiety-thesis-defense/</link>
+      <pubDate>Fri, 27 Jun 2025 11:45:57 +0700</pubDate>
+      <guid>http://localhost:1313/posts/reconcile-my-anxiety-thesis-defense/</guid>
+      <description>&lt;h2 id=&#34;how-i-manage-anxiety-while-waiting-for-my-thesis-defense-schedule&#34;&gt;How I Manage Anxiety While Waiting for My Thesis Defense Schedule&lt;/h2&gt;
+&lt;p&gt;Waiting can be harder than doing. Especially when it comes to &lt;em&gt;waiting&lt;/em&gt; for something as big as your  &lt;strong&gt;thesis defense&lt;/strong&gt; . If you&amp;rsquo;re anything like me, once you submit your final draft and all your paperwork is complete, the silence that follows is almost unbearable.&lt;/p&gt;
+&lt;p&gt;You keep refreshing your inbox. You keep wondering,  &lt;em&gt;“What if they forgot?”&lt;/em&gt; ,  &lt;em&gt;“What if I messed up?”&lt;/em&gt; , or the classic, &lt;em&gt;“Am I even ready for this?”&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Research Journey | Finding My &#39;Click&#39; After Discussions with My Research Teammates</title>
+      <link>http://localhost:1313/posts/my-research-journey-03/</link>
+      <pubDate>Fri, 02 May 2025 07:07:02 +0700</pubDate>
+      <guid>http://localhost:1313/posts/my-research-journey-03/</guid>
+      <description>&lt;p&gt;If there&amp;rsquo;s one myth I wish someone shattered earlier, it’s this:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You don&amp;rsquo;t have to do everything alone.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Throughout the early stages, I mostly kept to myself.&lt;/p&gt;
+&lt;p&gt;I thought &amp;ldquo;real researchers&amp;rdquo; figured things out solo, spending long nights battling code until breakthroughs happened.&lt;/p&gt;
+&lt;p&gt;It was lonely. It was draining.&lt;/p&gt;
+&lt;p&gt;Then, I started talking — really talking — to my research teammates.&lt;/p&gt;
+&lt;p&gt;Not formal meetings. Not forced check-ins.&lt;/p&gt;
+&lt;p&gt;Just genuine conversations about the confusion, the doubts, the &amp;ldquo;I have no idea what’s happening&amp;rdquo; moments.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Research Journey | Failing (A Lot) and Finally Understanding How Things Work</title>
+      <link>http://localhost:1313/posts/my-research-journey-02/</link>
+      <pubDate>Wed, 30 Apr 2025 07:07:53 +0700</pubDate>
+      <guid>http://localhost:1313/posts/my-research-journey-02/</guid>
+      <description>&lt;p&gt;Once I found my &amp;ldquo;gap,&amp;rdquo; I felt energized — for about a week.&lt;/p&gt;
+&lt;p&gt;Then reality hit.&lt;/p&gt;
+&lt;p&gt;Research isn&amp;rsquo;t a straight line. It’s  &lt;strong&gt;trial and error&lt;/strong&gt; , heavy on the error part.&lt;/p&gt;
+&lt;p&gt;I tried building my first model architecture by tweaking existing designs. I thought if I just stacked more layers or cranked up certain hyperparameters, magic would happen.&lt;/p&gt;
+&lt;p&gt;It didn’t.&lt;/p&gt;
+&lt;p&gt;My models became bigger and slower, the complete opposite of what I wanted.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My Research Journey | From Finding Gaps to Finding My &#39;Click&#39;</title>
       <link>http://localhost:1313/posts/my-research-journey-01/</link>

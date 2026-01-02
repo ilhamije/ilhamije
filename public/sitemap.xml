@@ -3,10 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-02T07:07:02+07:00</lastmod>
+    <lastmod>2026-01-02T22:44:13+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/portofolios/</loc>
+    <lastmod>2026-01-02T22:44:13+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2026-01-02T22:44:13+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-06-27T11:45:57+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/reconcile-my-anxiety-thesis-defense/</loc>
+    <lastmod>2025-06-27T11:45:57+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/my-research-journey-03/</loc>
     <lastmod>2025-05-02T07:07:02+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/my-research-journey-02/</loc>
+    <lastmod>2025-04-30T07:07:53+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/my-research-journey-01/</loc>
     <lastmod>2025-04-28T10:00:01+07:00</lastmod>
@@ -41,8 +56,6 @@
     <loc>http://localhost:1313/projects/privacy-policy/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
