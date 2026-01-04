@@ -13,7 +13,8 @@
       <link>http://localhost:1313/projects/portofolios/</link>
       <pubDate>Fri, 02 Jan 2026 22:44:13 +0700</pubDate>
       <guid>http://localhost:1313/projects/portofolios/</guid>
-      <description></description>
+      <description>&lt;h3 id=&#34;rag-chatbot---topic--law&#34;&gt;&lt;a href=&#34;lawrag.ilhamije.id&#34; title=&#34;Open Live Project&#34;&gt;RAG Chatbot - Topic : LAW&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This project develops an &lt;strong&gt;Indonesian legal RAG chatbot&lt;/strong&gt; that reads legal PDFs, retrieves relevant &lt;strong&gt;pasal and ayat&lt;/strong&gt; from a vector database, and explains them &lt;strong&gt;accurately in Indonesian&lt;/strong&gt; while preserving their original legal meaning. By using metadata-aware retrieval and structured synthesis, the system maintains  &lt;strong&gt;context and inter-article relationships&lt;/strong&gt; , avoids hallucination, and produces clear, normatively correct legal explanations based strictly on the original statutory text.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reconcile My Anxiety Thesis Defense</title>
