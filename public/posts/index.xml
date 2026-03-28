@@ -1,132 +1,128 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ilhamije</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on ilhamije</description>
-    <generator>Hugo -- 0.147.0</generator>
+    <title>ilhamije</title>
+    <link>https://ilhamije.id/posts/</link>
+    <description>Recent content on ilhamije</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Jun 2025 11:45:57 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <atom:link href="https://ilhamije.id/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Reconcile My Anxiety Thesis Defense</title>
-      <link>http://localhost:1313/posts/reconcile-my-anxiety-thesis-defense/</link>
+      <link>https://ilhamije.id/posts/reconcile-my-anxiety-thesis-defense/</link>
       <pubDate>Fri, 27 Jun 2025 11:45:57 +0700</pubDate>
-      <guid>http://localhost:1313/posts/reconcile-my-anxiety-thesis-defense/</guid>
-      <description>&lt;h2 id=&#34;how-i-manage-anxiety-while-waiting-for-my-thesis-defense-schedule&#34;&gt;How I Manage Anxiety While Waiting for My Thesis Defense Schedule&lt;/h2&gt;
-&lt;p&gt;Waiting can be harder than doing. Especially when it comes to &lt;em&gt;waiting&lt;/em&gt; for something as big as your  &lt;strong&gt;thesis defense&lt;/strong&gt; . If you&amp;rsquo;re anything like me, once you submit your final draft and all your paperwork is complete, the silence that follows is almost unbearable.&lt;/p&gt;
-&lt;p&gt;You keep refreshing your inbox. You keep wondering,  &lt;em&gt;“What if they forgot?”&lt;/em&gt; ,  &lt;em&gt;“What if I messed up?”&lt;/em&gt; , or the classic, &lt;em&gt;“Am I even ready for this?”&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>https://ilhamije.id/posts/reconcile-my-anxiety-thesis-defense/</guid>
+      <description>How I Manage Anxiety While Waiting for My Thesis Defense Schedule Waiting can be harder than doing. Especially when it comes to waiting for something as big as your thesis defense . If you&amp;rsquo;re anything like me, once you submit your final draft and all your paperwork is complete, the silence that follows is almost unbearable.
+You keep refreshing your inbox. You keep wondering, “What if they forgot?” , “What if I messed up?</description>
     </item>
+    
     <item>
       <title>My Research Journey | Finding My &#39;Click&#39; After Discussions with My Research Teammates</title>
-      <link>http://localhost:1313/posts/my-research-journey-03/</link>
+      <link>https://ilhamije.id/posts/my-research-journey-03/</link>
       <pubDate>Fri, 02 May 2025 07:07:02 +0700</pubDate>
-      <guid>http://localhost:1313/posts/my-research-journey-03/</guid>
-      <description>&lt;p&gt;If there&amp;rsquo;s one myth I wish someone shattered earlier, it’s this:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;You don&amp;rsquo;t have to do everything alone.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Throughout the early stages, I mostly kept to myself.&lt;/p&gt;
-&lt;p&gt;I thought &amp;ldquo;real researchers&amp;rdquo; figured things out solo, spending long nights battling code until breakthroughs happened.&lt;/p&gt;
-&lt;p&gt;It was lonely. It was draining.&lt;/p&gt;
-&lt;p&gt;Then, I started talking — really talking — to my research teammates.&lt;/p&gt;
-&lt;p&gt;Not formal meetings. Not forced check-ins.&lt;/p&gt;
-&lt;p&gt;Just genuine conversations about the confusion, the doubts, the &amp;ldquo;I have no idea what’s happening&amp;rdquo; moments.&lt;/p&gt;</description>
+      <guid>https://ilhamije.id/posts/my-research-journey-03/</guid>
+      <description>If there&amp;rsquo;s one myth I wish someone shattered earlier, it’s this:
+You don&amp;rsquo;t have to do everything alone.
+Throughout the early stages, I mostly kept to myself.
+I thought &amp;ldquo;real researchers&amp;rdquo; figured things out solo, spending long nights battling code until breakthroughs happened.
+It was lonely. It was draining.
+Then, I started talking — really talking — to my research teammates.
+Not formal meetings. Not forced check-ins.
+Just genuine conversations about the confusion, the doubts, the &amp;ldquo;I have no idea what’s happening&amp;rdquo; moments.</description>
     </item>
+    
     <item>
       <title>My Research Journey | Failing (A Lot) and Finally Understanding How Things Work</title>
-      <link>http://localhost:1313/posts/my-research-journey-02/</link>
+      <link>https://ilhamije.id/posts/my-research-journey-02/</link>
       <pubDate>Wed, 30 Apr 2025 07:07:53 +0700</pubDate>
-      <guid>http://localhost:1313/posts/my-research-journey-02/</guid>
-      <description>&lt;p&gt;Once I found my &amp;ldquo;gap,&amp;rdquo; I felt energized — for about a week.&lt;/p&gt;
-&lt;p&gt;Then reality hit.&lt;/p&gt;
-&lt;p&gt;Research isn&amp;rsquo;t a straight line. It’s  &lt;strong&gt;trial and error&lt;/strong&gt; , heavy on the error part.&lt;/p&gt;
-&lt;p&gt;I tried building my first model architecture by tweaking existing designs. I thought if I just stacked more layers or cranked up certain hyperparameters, magic would happen.&lt;/p&gt;
-&lt;p&gt;It didn’t.&lt;/p&gt;
-&lt;p&gt;My models became bigger and slower, the complete opposite of what I wanted.&lt;/p&gt;</description>
+      <guid>https://ilhamije.id/posts/my-research-journey-02/</guid>
+      <description>Once I found my &amp;ldquo;gap,&amp;rdquo; I felt energized — for about a week.
+Then reality hit.
+Research isn&amp;rsquo;t a straight line. It’s trial and error , heavy on the error part.
+I tried building my first model architecture by tweaking existing designs. I thought if I just stacked more layers or cranked up certain hyperparameters, magic would happen.
+It didn’t.
+My models became bigger and slower, the complete opposite of what I wanted.</description>
     </item>
+    
     <item>
       <title>My Research Journey | From Finding Gaps to Finding My &#39;Click&#39;</title>
-      <link>http://localhost:1313/posts/my-research-journey-01/</link>
+      <link>https://ilhamije.id/posts/my-research-journey-01/</link>
       <pubDate>Mon, 28 Apr 2025 10:00:01 +0700</pubDate>
-      <guid>http://localhost:1313/posts/my-research-journey-01/</guid>
-      <description>&lt;p&gt;Starting my thesis journey felt a lot like stepping into a massive, unfamiliar jungle — exciting but also terrifying.&lt;/p&gt;
-&lt;p&gt;I knew from the beginning that I wanted to do something with  &lt;strong&gt;computer vision&lt;/strong&gt; .&lt;/p&gt;
-&lt;p&gt;But &lt;em&gt;computer vision&lt;/em&gt; is such a vast ocean: detection, segmentation, classification, enhancement — where do you even begin?&lt;/p&gt;
-&lt;p&gt;At first, I did what most people do: I read. I read papers like they were treasure maps, each promising a path toward some &amp;ldquo;undiscovered land&amp;rdquo; of innovation.&lt;/p&gt;</description>
+      <guid>https://ilhamije.id/posts/my-research-journey-01/</guid>
+      <description>Starting my thesis journey felt a lot like stepping into a massive, unfamiliar jungle — exciting but also terrifying.
+I knew from the beginning that I wanted to do something with computer vision .
+But computer vision is such a vast ocean: detection, segmentation, classification, enhancement — where do you even begin?
+At first, I did what most people do: I read. I read papers like they were treasure maps, each promising a path toward some &amp;ldquo;undiscovered land&amp;rdquo; of innovation.</description>
     </item>
+    
     <item>
       <title>Editing With VI/VIM</title>
-      <link>http://localhost:1313/posts/editing-with-vi/</link>
+      <link>https://ilhamije.id/posts/editing-with-vi/</link>
       <pubDate>Tue, 04 Oct 2022 09:09:35 +0700</pubDate>
-      <guid>http://localhost:1313/posts/editing-with-vi/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been working on tutorial task for Jarkom Lanjut (Advanced Computer Network) in my Master. It&amp;rsquo;s a hands-on tutorial to improve our understanding about the subject. The lecturer gave us some clear instructions to use Nano to edit the code. Nano is easy to use and more friendly compared to VIM/VI. (Disclaimer: Both of these editors are good). Usually, I&amp;rsquo;d prefer to use VI in case I need to use editor in Server.&lt;/p&gt;</description>
+      <guid>https://ilhamije.id/posts/editing-with-vi/</guid>
+      <description>I&amp;rsquo;ve been working on tutorial task for Jarkom Lanjut (Advanced Computer Network) in my Master. It&amp;rsquo;s a hands-on tutorial to improve our understanding about the subject. The lecturer gave us some clear instructions to use Nano to edit the code. Nano is easy to use and more friendly compared to VIM/VI. (Disclaimer: Both of these editors are good). Usually, I&amp;rsquo;d prefer to use VI in case I need to use editor in Server.</description>
     </item>
+    
     <item>
       <title>Memilih Kerja Remote</title>
-      <link>http://localhost:1313/posts/memilih-kerja-remote/</link>
+      <link>https://ilhamije.id/posts/memilih-kerja-remote/</link>
       <pubDate>Wed, 31 Aug 2022 14:06:55 +0700</pubDate>
-      <guid>http://localhost:1313/posts/memilih-kerja-remote/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Foto macet di hari itu&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/memilih-kerja-remote/macet.jpeg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Sudah lama sekali rasanya sejak saya menjadi sukarelawan donor darah rhesus negative. Saya cukup familiar dengan jalan besar dan jalan alternatif menuju PMI Jakarta (Redcross). Biasanya jika ada kebutuhan darah, saya cukup pake motor melahap 32km perjalanan.&lt;/p&gt;
-&lt;p&gt;Jumat kemarin (19/08/2022) dijadwalkan lagi ke PMI meski kali ini bukan untuk mendonor. Biasanya saya memilih Sabtu, habis shubuh berangkat dari rumah karena jalanan masih kosong dan udara masih segar.&lt;/p&gt;</description>
+      <guid>https://ilhamije.id/posts/memilih-kerja-remote/</guid>
+      <description>Sudah lama sekali rasanya sejak saya menjadi sukarelawan donor darah rhesus negative. Saya cukup familiar dengan jalan besar dan jalan alternatif menuju PMI Jakarta (Redcross). Biasanya jika ada kebutuhan darah, saya cukup pake motor melahap 32km perjalanan.
+Jumat kemarin (19/08/2022) dijadwalkan lagi ke PMI meski kali ini bukan untuk mendonor. Biasanya saya memilih Sabtu, habis shubuh berangkat dari rumah karena jalanan masih kosong dan udara masih segar.
+Gak disangka, hari Jum&amp;rsquo;at pagi macet parah dimulai dari keluar komplek perumahan.</description>
     </item>
+    
     <item>
       <title>Research Journey</title>
-      <link>http://localhost:1313/posts/research-journey/</link>
+      <link>https://ilhamije.id/posts/research-journey/</link>
       <pubDate>Fri, 08 Apr 2022 08:20:14 +0700</pubDate>
-      <guid>http://localhost:1313/posts/research-journey/</guid>
-      <description>&lt;p&gt;Saya sedang belajar bagaimana melakukan riset di bidang computer science. Banyak buku, video (youtube) dan artikel riset terkait ini. Merasa kecil sekali saya di dunia riset. Banyak sekali orang seumur saya sudah memiliki publikasi banyak. Bahkan yang lebih hebat lagi, usia muda banyak yang sudah doktor dan H-Indexnya tinggi sekali.&lt;/p&gt;
-&lt;p&gt;Lah saya?
-Kok gini ya, jangan-jangan saya salah langkah. Salah mengambil keputusan. Saya ingin sekali menjadi peneliti.&lt;/p&gt;
-&lt;p&gt;Ada workshop yang saya ikuti, pembicaranya mengatakan &amp;ldquo;Untuk menjadi peneliti, kita bagusnya punya karir. Bekerja di kampus atau di bidang riset sebuah perusahaan. Punya target misal sebelum usia 30, sudah dapat gelar S2. Di usia 30-an, sudah dapat gelar S3&amp;rdquo;&lt;/p&gt;</description>
+      <guid>https://ilhamije.id/posts/research-journey/</guid>
+      <description>Saya sedang belajar bagaimana melakukan riset di bidang computer science. Banyak buku, video (youtube) dan artikel riset terkait ini. Merasa kecil sekali saya di dunia riset. Banyak sekali orang seumur saya sudah memiliki publikasi banyak. Bahkan yang lebih hebat lagi, usia muda banyak yang sudah doktor dan H-Indexnya tinggi sekali.
+Lah saya? Kok gini ya, jangan-jangan saya salah langkah. Salah mengambil keputusan. Saya ingin sekali menjadi peneliti.
+Ada workshop yang saya ikuti, pembicaranya mengatakan &amp;ldquo;Untuk menjadi peneliti, kita bagusnya punya karir.</description>
     </item>
+    
     <item>
       <title>Vacation Is Not Holiday</title>
-      <link>http://localhost:1313/posts/vacation-is-not-holiday/</link>
+      <link>https://ilhamije.id/posts/vacation-is-not-holiday/</link>
       <pubDate>Wed, 29 Dec 2021 21:51:07 +0700</pubDate>
-      <guid>http://localhost:1313/posts/vacation-is-not-holiday/</guid>
-      <description>&lt;p&gt;End of the year. Yup, here we are again. Just like last year with no significant achievements for most of us. But that&amp;rsquo;s not a bad thing, in my opinion. The thing that we should have in mind is that we should be better that who we were yesterday or last year. It doesn&amp;rsquo;t matter if we are better than anyone else on earth. They&amp;rsquo;re not you.&lt;/p&gt;
-&lt;p&gt;I took a full week of vacation leave, just to take care my family. Never had a plan to go somewhere for vacation. Not on holiday season. The traffic would be a little version of hell on earth.&lt;/p&gt;</description>
+      <guid>https://ilhamije.id/posts/vacation-is-not-holiday/</guid>
+      <description>End of the year. Yup, here we are again. Just like last year with no significant achievements for most of us. But that&amp;rsquo;s not a bad thing, in my opinion. The thing that we should have in mind is that we should be better that who we were yesterday or last year. It doesn&amp;rsquo;t matter if we are better than anyone else on earth. They&amp;rsquo;re not you.
+I took a full week of vacation leave, just to take care my family.</description>
     </item>
+    
     <item>
       <title>Is Blockchain Next Big Thing?</title>
-      <link>http://localhost:1313/posts/is-blockchain-next-big-thing/</link>
+      <link>https://ilhamije.id/posts/is-blockchain-next-big-thing/</link>
       <pubDate>Fri, 17 Dec 2021 11:15:34 +0700</pubDate>
-      <guid>http://localhost:1313/posts/is-blockchain-next-big-thing/</guid>
-      <description>&lt;p&gt;Gimana kalo kita bandingkan Crypto currency vs Blockchain vs Metaverse?&lt;/p&gt;
-&lt;p&gt;Eeugh kayaknya kita gak bisa ngebandingin antara ketiga ini deh. Ya saya setuju sih kalo kita melihat 10 tahun terakhir atau dekade sebelumnya, pasti ada sesuatu &amp;ldquo;gebrakan&amp;rdquo; yg awalnya gak dikira akan berhasil bagi sebagian besar orang, eh ternyata berhasil.&lt;/p&gt;
-&lt;p&gt;Internet jadi alat untuk mengubah semua:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;BlackBerry tergantikan iPhone &amp;amp; Android.&lt;/li&gt;
-&lt;li&gt;Surat tergantikan email.&lt;/li&gt;
-&lt;li&gt;Kerja di kantor tergantikan kerja remote.&lt;/li&gt;
-&lt;li&gt;dan semisalnya..&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Ada yang bilang NFT atau crypto currency lainnya adalah the next big thing dekade ini. Dan saat inilah harusnya orang jadi FOMO. Istilah lainnya, jangan sampe ketiggalan.&lt;/p&gt;</description>
+      <guid>https://ilhamije.id/posts/is-blockchain-next-big-thing/</guid>
+      <description>Gimana kalo kita bandingkan Crypto currency vs Blockchain vs Metaverse?
+Eeugh kayaknya kita gak bisa ngebandingin antara ketiga ini deh. Ya saya setuju sih kalo kita melihat 10 tahun terakhir atau dekade sebelumnya, pasti ada sesuatu &amp;ldquo;gebrakan&amp;rdquo; yg awalnya gak dikira akan berhasil bagi sebagian besar orang, eh ternyata berhasil.
+Internet jadi alat untuk mengubah semua:
+BlackBerry tergantikan iPhone &amp;amp; Android. Surat tergantikan email. Kerja di kantor tergantikan kerja remote. dan semisalnya.</description>
     </item>
-    <item>
-      <title>Old Price Prediction Project</title>
-      <link>http://localhost:1313/posts/old-price-prediction-project/</link>
-      <pubDate>Thu, 16 Dec 2021 07:07:07 +0700</pubDate>
-      <guid>http://localhost:1313/posts/old-price-prediction-project/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ll continue my old project : Car Prediction&lt;/p&gt;</description>
-    </item>
+    
     <item>
       <title>Static Page Generator Confuses Me</title>
-      <link>http://localhost:1313/posts/static-page-generator-confuses-me/</link>
+      <link>https://ilhamije.id/posts/static-page-generator-confuses-me/</link>
       <pubDate>Wed, 15 Dec 2021 19:11:22 +0700</pubDate>
-      <guid>http://localhost:1313/posts/static-page-generator-confuses-me/</guid>
-      <description>&lt;p&gt;I want to use github pages to host my static blog. I&amp;rsquo;m lazy to do it on hosting company. Not gonna do that in the near future.&lt;/p&gt;
-&lt;p&gt;I tried Jekyll, I don&amp;rsquo;t feel confortable doing it. Changed my mind, and chose Hugo. Then confused by Hugo. I followed technical tutorial on web. Do the steps carefully, but ended up in the middle of blank website that only shows my README file content :sweat:&lt;/p&gt;</description>
+      <guid>https://ilhamije.id/posts/static-page-generator-confuses-me/</guid>
+      <description>I want to use github pages to host my static blog. I&amp;rsquo;m lazy to do it on hosting company. Not gonna do that in the near future.
+I tried Jekyll, I don&amp;rsquo;t feel confortable doing it. Changed my mind, and chose Hugo. Then confused by Hugo. I followed technical tutorial on web. Do the steps carefully, but ended up in the middle of blank website that only shows my README file content :sweat:</description>
     </item>
+    
     <item>
       <title>Resurrecting Old Dream</title>
-      <link>http://localhost:1313/posts/2021-12-14-resurecting-old-dream/</link>
+      <link>https://ilhamije.id/posts/2021-12-14-resurecting-old-dream/</link>
       <pubDate>Tue, 14 Dec 2021 22:30:59 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2021-12-14-resurecting-old-dream/</guid>
-      <description>&lt;p&gt;Finally!&lt;br&gt;
-I got accepted as Master Student at University of Indonesia. It&amp;rsquo;s been one of my step closer to my dream: to create things that matter in the world of AI/ML. Yeah, I&amp;rsquo;m going to say this classic line : To create a better world.&lt;/p&gt;
-&lt;p&gt;Maybe creating one ML project every month is not too much, right?&lt;br&gt;
-Let&amp;rsquo;s do it.&lt;/p&gt;</description>
+      <guid>https://ilhamije.id/posts/2021-12-14-resurecting-old-dream/</guid>
+      <description>Finally!
+I got accepted as Master Student at University of Indonesia. It&amp;rsquo;s been one of my step closer to my dream: to create things that matter in the world of AI/ML. Yeah, I&amp;rsquo;m going to say this classic line : To create a better world.
+Maybe creating one ML project every month is not too much, right?
+Let&amp;rsquo;s do it.</description>
     </item>
+    
   </channel>
 </rss>

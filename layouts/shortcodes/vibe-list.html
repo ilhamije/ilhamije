@@ -1,0 +1,91 @@
+<div class="vibe-wrapper">
+  
+  <div class="vibe-preview" style="width: 100%; height: 0; padding-bottom: 56.25%; background: #eee; border-radius: 12px; margin-bottom: 30px; position: relative; overflow: hidden; border: 2px solid #ddd; box-shadow: inset 0 0 20px rgba(0,0,0,0.1);">
+    <iframe id="vibe-frame" src="about:blank" style="position: absolute; width: 100%; height: 100%; border:0;" title="Project Preview"></iframe>
+    <div id="vibe-placeholder" style="position: absolute; top:0; left:0; width:100%; height:100%; display: flex; flex-direction:column; align-items:center; justify-content:center; color:#888;">
+      <span style="font-size: 3em;">🔍</span>
+      <p>Select a project to preview it live here</p>
+    </div>
+  </div>
+
+  <div class="vibe-container" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;">
+    
+    <!-- Project 1: RAG Chatbot -->
+    <div onclick="preview('https://lawrag.ilhamije.id')" class="vibe-card" style="cursor: pointer; position: relative; border: 1px solid #ddd; border-radius: 12px; overflow: hidden; transition: all 0.2s; background: var(--theme); padding: 15px;">
+      <h3 style="margin-top: 0;">⚖️ RAG Chatbot - LAW</h3>
+      <p style="font-size: 0.9em; opacity: 0.8;">Indonesian legal AI assistant specializing in statutory text retrieval.</p>
+      <div style="font-size: 0.8em; color: var(--secondary);">Python, LangChain, ChromaDB</div>
+      <a href="https://lawrag.ilhamije.id" target="_blank" style="font-size: 0.8em; margin-top: 10px; display: inline-block; color: var(--primary);">Open in New Tab ↗</a>
+    </div>
+
+    <!-- Project 2: Receipt Scanner -->
+    <div onclick="preview('https://receiptscan.ilhamije.id')" class="vibe-card" style="cursor: pointer; position: relative; border: 1px solid #ddd; border-radius: 12px; overflow: hidden; transition: all 0.2s; background: var(--theme); padding: 15px;">
+      <h3 style="margin-top: 0;">🧾 Receipt Scanner</h3>
+      <p style="font-size: 0.9em; opacity: 0.8;">Expense tracking MVP with PWA support and OCR extraction.</p>
+      <div style="font-size: 0.8em; color: var(--secondary);">FastAPI, React, Vite, PWA</div>
+      <a href="https://receiptscan.ilhamije.id" target="_blank" style="font-size: 0.8em; margin-top: 10px; display: inline-block; color: var(--primary);">Open in New Tab ↗</a>
+    </div>
+
+    <!-- Project 3: School Jump -->
+    <div onclick="preview('https://school-jump.vercel.app')" class="vibe-card" style="cursor: pointer; position: relative; border: 1px solid #ddd; border-radius: 12px; overflow: hidden; transition: all 0.2s; background: var(--theme); padding: 15px;">
+      <h3 style="margin-top: 0;">🏃 School Jump</h3>
+      <p style="font-size: 0.9em; opacity: 0.8;">A pixelated Brazilian/Indonesian school runner game.</p>
+      <div style="font-size: 0.8em; color: var(--secondary);">JavaScript, HTML5 Canvas</div>
+      <a href="https://school-jump.vercel.app" target="_blank" style="font-size: 0.8em; margin-top: 10px; display: inline-block; color: var(--primary);">Open in New Tab ↗</a>
+    </div>
+
+    <!-- Project 4: AI Agent -->
+    <div onclick="preview('https://ai-agent-seven-ashy.vercel.app')" class="vibe-card" style="cursor: pointer; position: relative; border: 1px solid #ddd; border-radius: 12px; overflow: hidden; transition: all 0.2s; background: var(--theme); padding: 15px;">
+      <h3 style="margin-top: 0;">🤖 AI Agent Explorer</h3>
+      <p style="font-size: 0.9em; opacity: 0.8;">Experiments in agentic coding and automation.</p>
+      <div style="font-size: 0.8em; color: var(--secondary);">Vibe coding, AI tools</div>
+      <a href="https://ai-agent-seven-ashy.vercel.app" target="_blank" style="font-size: 0.8em; margin-top: 10px; display: inline-block; color: var(--primary);">Open in New Tab ↗</a>
+    </div>
+
+    <!-- Project 5: Paarkir -->
+    <div onclick="preview('https://paarkir.vercel.app')" class="vibe-card" style="cursor: pointer; position: relative; border: 1px solid #ddd; border-radius: 12px; overflow: hidden; transition: all 0.2s; background: var(--theme); padding: 15px;">
+      <h3 style="margin-top: 0;">🅿️ Paarkir</h3>
+      <p style="font-size: 0.9em; opacity: 0.8;">Parking management system experiment.</p>
+      <div style="font-size: 0.8em; color: var(--secondary);">Next.js, Vercel</div>
+      <a href="https://paarkir.vercel.app" target="_blank" style="font-size: 0.8em; margin-top: 10px; display: inline-block; color: var(--primary);">Open in New Tab ↗</a>
+    </div>
+
+    <!-- Project 6: Kontenation -->
+    <div onclick="preview('https://kontenation.vercel.app')" class="vibe-card" style="cursor: pointer; position: relative; border: 1px solid #ddd; border-radius: 12px; overflow: hidden; transition: all 0.2s; background: var(--theme); padding: 15px;">
+      <h3 style="margin-top: 0;">🌐 Kontenation</h3>
+      <p style="font-size: 0.9em; opacity: 0.8;">Content curation platform vibed with AI.</p>
+      <div style="font-size: 0.8em; color: var(--secondary);">Vibe coding</div>
+      <a href="https://kontenation.vercel.app" target="_blank" style="font-size: 0.8em; margin-top: 10px; display: inline-block; color: var(--primary);">Open in New Tab ↗</a>
+    </div>
+
+  </div>
+</div>
+
+<script>
+function preview(url) {
+  const frame = document.getElementById('vibe-frame');
+  const placeholder = document.getElementById('vibe-placeholder');
+  
+  if (frame && placeholder) {
+    placeholder.style.display = 'none';
+    frame.src = url;
+    // Scroll smoothly to preview
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+}
+</script>
+
+<style>
+.vibe-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  border-color: var(--primary) !important;
+}
+.vibe-wrapper {
+  margin-top: 20px;
+}
+[data-theme='dark'] .vibe-preview {
+  background: #1d1e20 !important;
+  border-color: #333 !important;
+}
+</style>

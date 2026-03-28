@@ -3,6 +3,30 @@ languageCode = 'en-us'
 title = 'ilhamije'
 theme = 'hugo-PaperMod'
 
+[params]
+    # Profile Mode settings
+    [params.profileMode]
+        enabled = true
+        title = "ilhamije"
+        subtitle = "Let me join your startup as CTO"
+        imageUrl = "https://avatars.githubusercontent.com/u/1083431?v=4" # Using GitHub avatar as placeholder
+        imageWidth = 120
+        imageHeight = 120
+        [[params.profileMode.buttons]]
+            name = "Projects"
+            url = "/projects/portofolios/"
+        [[params.profileMode.buttons]]
+            name = "View CV"
+            url = "/cv/"
+
+    # Social Icons
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/ilhamije"
+    [[params.socialIcons]]
+        name = "linkedin"
+        url = "https://linkedin.com/in/ilhamije"
+
 [menu]
 [[menu.main]]
   name = 'cv'
@@ -12,3 +36,14 @@ theme = 'hugo-PaperMod'
   name = 'projects'
   url = '/projects/'
   weight = -100
+[[menu.main]]
+  name = 'search'
+  url = '/search/'
+  weight = -90
+[[menu.main]]
+  name = 'vibe projects'
+  url = '/vibe-coded-projects/'
+  weight = -80
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]

@@ -1,37 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on ilhamije</title>
-    <link>http://localhost:1313/projects/</link>
-    <description>Recent content in Projects on ilhamije</description>
-    <generator>Hugo -- 0.147.0</generator>
+    <title>ilhamije</title>
+    <link>https://ilhamije.id/projects/</link>
+    <description>Recent content on ilhamije</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jan 2026 22:44:13 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Portofolios</title>
-      <link>http://localhost:1313/projects/portofolios/</link>
-      <pubDate>Fri, 02 Jan 2026 22:44:13 +0700</pubDate>
-      <guid>http://localhost:1313/projects/portofolios/</guid>
-      <description>&lt;h3 id=&#34;rag-chatbot---topic--law&#34;&gt;&lt;a href=&#34;lawrag.ilhamije.id&#34; title=&#34;Open Live Project&#34;&gt;RAG Chatbot - Topic : LAW&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;This project develops an &lt;strong&gt;Indonesian legal RAG chatbot&lt;/strong&gt; that reads legal PDFs, retrieves relevant &lt;strong&gt;pasal and ayat&lt;/strong&gt; from a vector database, and explains them &lt;strong&gt;accurately in Indonesian&lt;/strong&gt; while preserving their original legal meaning. By using metadata-aware retrieval and structured synthesis, the system maintains  &lt;strong&gt;context and inter-article relationships&lt;/strong&gt; , avoids hallucination, and produces clear, normatively correct legal explanations based strictly on the original statutory text.&lt;/p&gt;</description>
-    </item>
+    
+    <atom:link href="https://ilhamije.id/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title></title>
-      <link>http://localhost:1313/projects/privacy-policy/</link>
+      <link>https://ilhamije.id/projects/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/privacy-policy/</guid>
-      <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;Thank you for using my software!
-This document is the main privacy policy for &lt;strong&gt;Omni Notes&lt;/strong&gt; Android and desktop applications. I respects your privacy rights and care about protecting your information collected by my apps.&lt;/p&gt;
-&lt;h2 id=&#34;what-information-are-eventually-collected&#34;&gt;What information are eventually collected&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;No information will be collected by this app.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;security-of-information&#34;&gt;Security of information&lt;/h2&gt;
-&lt;p&gt;No data are sold or shared with third party entities or companies.&lt;/p&gt;</description>
+      <guid>https://ilhamije.id/projects/privacy-policy/</guid>
+      <description>Privacy Policy Introduction Thank you for using my software! This document is the main privacy policy for Omni Notes Android and desktop applications. I respects your privacy rights and care about protecting your information collected by my apps.
+What information are eventually collected No information will be collected by this app. Security of information No data are sold or shared with third party entities or companies.
+Contact To contact me on topics related to products, privacy policy or in another case, use ilhamije@gmail.</description>
     </item>
+    
   </channel>
 </rss>
