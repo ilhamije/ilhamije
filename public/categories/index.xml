@@ -1,12 +1,1 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ilhamije</title>
-    <link>https://ilhamije.id/categories/</link>
-    <description>Recent content on ilhamije</description>
-    <language>en-us</language>
-    
-    <atom:link href="https://ilhamije.id/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ilhamije</title><link>/categories/</link><description>Recent content on ilhamije</description><language>en-us</language><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
