@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'ilhamije'
 theme = 'hugo-PaperMod'
 
+[minify]
+  disableJSON = true
+
 [params]
     # Profile Mode settings
     [params.profileMode]
