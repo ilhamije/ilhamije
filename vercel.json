@@ -2,7 +2,9 @@
   "framework": "hugo",
   "buildCommand": "hugo --gc --minify",
   "outputDirectory": "public",
-  "env": {
-    "HUGO_VERSION": "0.105.0"
+  "build": {
+    "env": {
+      "HUGO_VERSION": "0.105.0"
+    }
   }
 }
