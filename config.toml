@@ -40,7 +40,7 @@ theme = 'hugo-PaperMod'
   url = '/projects/'
   weight = -100
 [[menu.main]]
-  name = 'vibecoded proj'
+  name = 'vibecoded'
   url = '/vibecoded/'
   weight = -90
 [[menu.main]]
